@@ -9,6 +9,6 @@ We use blockchain tech to management the medical reports of all patients along w
 
 All transactions are secured by an encryption and stored as blocks to authenticate within a network of computers rather than a centralized server. Moreover we use hyperledger concept to associate and store all the associated medical documents associated with each transaction with datestamp. 
 
-This allows to verify the authenticity of each report which will be detected if modified by any individual. Thus we bring forward a secure, safe, efficient and authentic medical report management system using blockchain technology..
+This allows to verify the authenticity of each report which will be detected if modified by any individual. Thus we bring forward a secure, safe, efficient and authentic medical report management system using blockchain technology.
 
 
